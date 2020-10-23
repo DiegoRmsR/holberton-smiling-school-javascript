@@ -1,6 +1,3 @@
-<p>
-<img width="260" height="170" src="https://www.flaticon.es/svg/static/icons/svg/603/603197.svg" align="right" >
-</p>
 
 # :colombia: Build a web app in JavaScript
 
@@ -24,7 +21,7 @@
 
 ## Contributing
 
--- Santiago Yanguas - Holberton Student
+-- Diego Ramos - Holberton Student
 
 ## Versioning
 
@@ -32,7 +29,7 @@ For my learning of web dev in Holberton School
 
 ## Authors
 
----Santiago Yanguas 946@holbertonshcool.com
+---Diego Ramos Diegoramos.mt@gmail.com
 
 ## Files
 
